@@ -33,7 +33,6 @@
   }
  ],
  "status": "校正中（NDL 全文 OCR から起こし、修正案で 6 か所を直した。ほかはルビ・柱・誤認識を含む）",
- "proofread_at": "2026-10-29",
  "license": {
   "text": "CC0 1.0"
  },
@@ -3983,6 +3982,7 @@
    "genre": ""
   }
  ],
+ "proofread_at": "2026-10-29",
  "catalog": {
   "work_id": "jikkinsho",
   "work": "十訓抄",
@@ -3995,6 +3995,7 @@
   "poems": 92,
   "editions": 2,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T11:01:48+09:00"
+  "updated_at": "2026-10-29T11:01:48+09:00",
+  "yaku": 189
  }
 }
